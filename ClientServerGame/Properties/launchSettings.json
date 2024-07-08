@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ClientServerGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ClientServerGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
